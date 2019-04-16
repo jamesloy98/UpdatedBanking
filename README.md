@@ -35,4 +35,4 @@ Step 1: Create a user.
 4: Make sure to follow through prompts that are provided.
 5: When done, close month.
 
-Grand Canyon University © [James Loy]()
+Grand Canyon University © [James Loy](https://www.linkedin.com/in/jamesloy98/)
